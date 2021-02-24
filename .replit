@@ -1,0 +1,1 @@
+run = "sqlite3 ProductSupplier.db -init Main.sql"
